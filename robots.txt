@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iosineyema.github.io/sitemap
+Sitemap: https://iosineyema.github.io/app/sitemap
+Sitemap: https://iosineyema.github.io/assets/sitemap
+Sitemap: https://iosineyema.github.io/css/sitemap
+Sitemap: https://iosineyema.github.io/includes/sitemap
+Sitemap: https://iosineyema.github.io/item/sitemap
+Sitemap: https://iosineyema.github.io/src/sitemap
